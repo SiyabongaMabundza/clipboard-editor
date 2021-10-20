@@ -1,0 +1,15 @@
+{
+  "name": "clipboard-editor",
+  "version": "1.0.0",
+  "description": "A node.js cli tool to edit clipboard content on the fly",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siyabonga Mabundza",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^3.0.0"
+  }
+}
